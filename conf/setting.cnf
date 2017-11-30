@@ -1,0 +1,2 @@
+[db]
+dns = mysql+pymysql://oldboy:123456@10.0.0.52:3306/course?charset=utf8
